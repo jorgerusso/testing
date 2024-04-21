@@ -17,4 +17,4 @@ spec:
       containers:
       - name: hello-world
         image: russojrv/hello-world:1.0.0
-        imagePullPolicy: Never
+        imagePullPolicy: Always
